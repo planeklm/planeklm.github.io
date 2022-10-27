@@ -3,6 +3,3 @@
 **OLD BRANCH**\
 A simple glassmorphism site I made using HTML and CSS for Razed Scripts.\
 It includes a few buttons for our tebex, github and discord for an easy hub of our services/contacts.
-
-# Credits
-JaxCore - some elements are from their website.
