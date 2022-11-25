@@ -265,7 +265,7 @@ main > article:nth-child(2) > .article-image-section {
 }
 
 main > article:nth-child(3) > .article-image-section {
-  background-image: url("https://cdn.discordapp.com/attachments/1011294681348460545/1045439851027238912/GoogleMath.png");
+  background-image: url("https://images.unsplash.com/photo-1660766877755-4cac24f6cf21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80");
 }
 
 main > article:nth-child(4) > .article-image-section {
@@ -273,7 +273,7 @@ main > article:nth-child(4) > .article-image-section {
 }
 
 main > article:nth-child(5) > .article-image-section {
-  background-image: url("https://cdn.discordapp.com/attachments/1011294681348460545/1045443650320093265/ClasworkCC.png");
+  background-image: url("https://images.unsplash.com/photo-1565626424178-c699f6601afd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80");
 }
 
 main > article > .article-image-section {
